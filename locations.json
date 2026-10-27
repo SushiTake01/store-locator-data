@@ -20,36 +20,6 @@
     "country": "Andorra"
   },
   {
-    "shop": "Caprabo",
-    "name": "Caprabo Carrer Prat de la Creu",
-    "address": "Carrer Prat de la Creu, 46, AD500 Andorra la Vella, Andorra",
-    "city": "Andorra la Vella",
-    "lat": 42.506707381513884,
-    "lng": 1.5231974967325852,
-    "link": "/caprabo-carrer-prat-de-la-creu",
-    "country": "Andorra"
-  },
-  {
-    "shop": "Caprabo",
-    "name": "Caprabo Av. Joan Martí",
-    "address": "Av. de Joan Martí, 66 PB Local, Andorra",
-    "city": "Encamp",
-    "lat": 42.53283989807453,
-    "lng": 1.5774116378103036,
-    "link": "/caprabo-av-joan-marti",
-    "country": "Andorra"
-  },
-  {
-    "shop": "Caprabo",
-    "name": "Caprabo Costes de Giberga",
-    "address": "Costes de Giberga, AD400 La Massana, Andorra",
-    "city": "La Massana",
-    "lat": 42.5449,
-    "lng": 1.5148,
-    "link": "/caprabo-costes-de-giberga",
-    "country": "Andorra"
-  },
-  {
     "shop": "Carrefour",
     "name": "Carrefour Valverde",
     "address": "Ctra. Valverde, km. 1, 06010 Badajoz, Spain",
