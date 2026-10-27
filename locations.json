@@ -278,5 +278,105 @@
     "lng":  -16.722864090411605,
     "link": "/hiperdino-siam-mall",
     "country": "Spain"
+  },
+  {
+    "shop": "HiperDino",
+    "name": "HiperDino Chafiras",
+    "address": "Polígono Industrial Las Chafiras, Av. Claudio Delgado Díaz, 19, 38639 Las Chafiras, Santa Cruz de Tenerife",
+    "city": "San Miguel de Abona",
+    "lat": 28.05052931877727,
+    "lng":  -16.616449762585987,
+    "link": "/hiperdino-chafiras",
+    "country": "Spain"
+  },
+  {
+    "shop": "HiperDino",
+    "name": "HiperDino Piedro Redonda",
+    "address": "Polígono Industrial Piedra Redonda, parcela 3, 38400 Puerto de la Cruz, Santa Cruz de Tenerife",
+    "city": "Puerto de la Cruz",
+    "lat": 28.398380238053292,
+    "lng":  -16.544274447228084,
+    "link": "/hiperdino-piedra-redonda",
+    "country": "Spain"
+  },
+  {
+    "shop": "HiperDino",
+    "name": "HiperDino Alisios",
+    "address": "C.C. Alisios C/ Antonio Abad A Pasaje Maria Villegas, 35018 Las Palmas de Gran Canaria",
+    "city": "Tamaraceite",
+    "lat": 28.094631140639876,
+    "lng":  -15.473904162584155,
+    "link": "/hiperdino-alisios",
+    "country": "Spain"
+  },
+  {
+    "shop": "HiperDino",
+    "name": "HiperDino Guimar",
+    "address": "Polígono Industrial de Güímar, Parcela 2 - Manzana A, 38550 Arafo, Santa Cruz de Tenerife",
+    "city": "Güimar",
+    "lat": 28.331043794545888,
+    "lng":  -16.372581574785755,
+    "link": "/hiperdino-guimar",
+    "country": "Spain"
+  },
+  {
+    "shop": "HiperDino",
+    "name": "HiperDino San Bartolomé",
+    "address": "Aeropuerto, km 4, 7, 35509 Playa Honda, Las Palmas",
+    "city": "Playa Honda, Las Palmas",
+    "lat": 28.957828588018018,
+    "lng":  -13.599731517099004,
+    "link": "/hiperdino-san-bartolome",
+    "country": "Spain"
+  },
+  {
+    "shop": "HiperDino",
+    "name": "HiperDino El Galeón",
+    "address": "Centro Comercial El Galeón Oulet, Av. de los Vientos, 10, 38670 Adeje, Santa Cruz de Tenerife",
+    "city": "Adeje",
+    "lat": 28.11692702676701,
+    "lng":  -16.73061971712162,
+    "link": "/hiperdino-el-galeon",
+    "country": "Spain"
+  },
+  {
+    "shop": "HiperDino",
+    "name": "HiperDino Gáldar",
+    "address": "San Isidro El Viejo, Plan Parcial Sector, 15, 35460 Agaete, Las Palmas",
+    "city": "Galdar",
+    "lat": 28.118835538488245,
+    "lng":  -15.675459090130854,
+    "link": "/hiperdino-galdar",
+    "country": "Spain"
+  },
+  {
+    "shop": "HiperDino",
+    "name": "HiperDino Arucas",
+    "address": "Calle, Alcalde Juan Antonio Ferrera Santana, 35400 Arucas, Las Palmas",
+    "city": "Arucas",
+    "lat": 28.117840975955918,
+    "lng":  -15.528821774791412,
+    "link": "/hiperdino-Arucas",
+    "country": "Spain"
+  },
+  {
+    "shop": "HiperDino",
+    "name": "HiperDino Open Mall",
+    "address": "C. León y Castillo, 156, 35500 Arrecife, Las Palmas",
+    "city": "Arrecife",
+    "lat": 28.967684588906426,
+    "lng":  -13.546843874768516,
+    "link": "/hiperdino-open-mall",
+    "country": "Spain"
+  },
+  {
+    "shop": "HiperDino",
+    "name": "HiperDino El Médano",
+    "address": "C.C, Av. José Miguel Galván Bello, S/N, 38612 El Médano, Santa Cruz de Tenerife",
+    "city": "El Médano",
+    "lat": 28.046888082623553,
+    "lng":  -16.537589232462953,
+    "link": "/hiperdino-el-medano",
+    "country": "Spain"
   }
 ]
