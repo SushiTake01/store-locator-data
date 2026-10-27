@@ -268,5 +268,15 @@
     "lng": -0.443278,
     "link": "/carrefour-cocentaina",
     "country": "Spain"
+  },
+  {
+    "shop": "HiperDino",
+    "name": "HiperDino Siam Mall",
+    "address": "CC Siam Mall, Av. Siam, 3, 38660 Playa de las Américas, Santa Cruz de Tenerife",
+    "city": "Adeje",
+    "lat": 28.069390109423384,
+    "lng":  -16.722864090411605,
+    "link": "/hiperdino-siam-mall",
+    "country": "Spain"
   }
 ]
