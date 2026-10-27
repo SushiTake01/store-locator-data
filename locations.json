@@ -351,12 +351,12 @@
   },
   {
     "shop": "E.Leclerc",
-    "name": "E.Leclerc Cuidad Real",
+    "name": "E.Leclerc Ciudad Real",
     "address": "Carr. de Porzuna, s/n, 13005 Ciudad Real",
     "city": "Ciudad Real",
     "lat": 38.99193059056007,
     "lng":  -3.9363942613573784,
-    "link": "/eleclerc-cuidad-real",
+    "link": "/eleclerc-ciudad-real",
     "country": "Spain"
   },
   {
@@ -375,7 +375,7 @@
     "address": "Carretera San Juan, km 1, 7, 07800 Eivissa, Illes Balears",
     "city": "Ibiza",
     "lat": 38.92070327730982,
-    "lng":  -1.441257810212316,
+    "lng":  1.441257810212316,
     "link": "/eroski-eurocentro",
     "country": "Spain"
   },
