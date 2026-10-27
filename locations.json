@@ -378,5 +378,15 @@
     "lng":  -16.537589232462953,
     "link": "/hiperdino-el-medano",
     "country": "Spain"
+  },
+  {
+    "shop": "E.Leclerc",
+    "name": "E.Leclerc Cuidad Real",
+    "address": "Carr. de Porzuna, s/n, 13005 Ciudad Real",
+    "city": "Ciudad Real",
+    "lat": 38.99193059056007,
+    "lng":  -3.9363942613573784,
+    "link": "/eleclerc-cuidad-real",
+    "country": "Spain"
   }
 ]
