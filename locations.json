@@ -358,5 +358,225 @@
     "lng":  -3.9363942613573784,
     "link": "/eleclerc-cuidad-real",
     "country": "Spain"
+  },
+  {
+    "shop": "EROSKI",
+    "name": "EROSKI Santa Ponça",
+    "address": "amb cantonada G.V, Av Rei Jaume I, Gran Via Puig des Castellet, 07180 Santa Ponça, Illes Balears",
+    "city": "Santa Ponça",
+    "lat": 39.51710525048643,
+    "lng":   2.488319383243799,
+    "link": "/eroski-santa-ponca",
+    "country": "Spain"
+  },
+  {
+    "shop": "EROSKI",
+    "name": "EROSKI Eurocentro",
+    "address": "Carretera San Juan, km 1, 7, 07800 Eivissa, Illes Balears",
+    "city": "Ibiza",
+    "lat": 38.92070327730982,
+    "lng":  - 1.441257810212316,
+    "link": "/eroski-eurocentro",
+    "country": "Spain"
+  },
+  {
+    "shop": "EROSKI",
+    "name": "EROSKI Santa Eularia",
+    "address": "Carrer de Cèsar Puget Riquer, 60, 07849 Santa Eulària des Riu, Illes Balears",
+    "city": "Santa Eulária des Riu",
+    "lat": 38.992382310478284,
+    "lng":  1.5471989967196278,
+    "link": "/eroski-santa-eularia",
+    "country": "Spain"
+  },
+  {
+    "shop": "EROSKI",
+    "name": "EROSKI Ses Païsses",
+    "address": "Avinguda de ses Païsses, s/n, 07820 Sant Antoni de Portmany, Illes Balears",
+    "city": "Sant Antoni",
+    "lat": 38.97589679385009,
+    "lng":   1.322481354388768,
+    "link": "/eroski-ses-paisses",
+    "country": "Spain"
+  },
+  {
+    "shop": "EROSKI",
+    "name": "EROSKI Artea",
+    "address": "C.C. Artea, Barrio Peruri, s/n, 48940 Leioa, Biscay",
+    "city": "Leioa",
+    "lat": 43.341609935718196,
+    "lng":  -2.988834806799383,
+    "link": "/eroski-artea",
+    "country": "Spain"
+  },
+  {
+    "shop": "EROSKI",
+    "name": "EROSKI Ballonti",
+    "address": "Av. Ballonti, 1, 48920 Portugalete, Biscay",
+    "city": "Portugalete",
+    "lat": 43.31113461821994,
+    "lng":  -3.02331291845183,
+    "link": "/eroski-ballonti",
+    "country": "Spain"
+  },
+  {
+    "shop": "EROSKI",
+    "name": "EROSKI Bilbondo",
+    "address": "Barrio Zabalandi, s/n, Urbi, 48970 Basauri, Biscay",
+    "city": "Basauri",
+    "lat": 43.22804242330206,
+    "lng":  -2.876147545445947,
+    "link": "/eroski-bilbondo",
+    "country": "Spain"
+  },
+  {
+    "shop": "EROSKI",
+    "name": "EROSKI Leioa",
+    "address": "Iparragirre Etorbidea, 48940 Leioa, Bizkaia",
+    "city": "Leioa",
+    "lat": 43.322729360656155,
+    "lng":  -2.981876189616473,
+    "link": "/eroski-leioa",
+    "country": "Spain"
+  },
+  {
+    "shop": "EROSKI",
+    "name": "EROSKI Garbera",
+    "address": "C.C. Garbera, Garbera Zeharbidea, 1 Bo. Alza",
+    "city": "San Sebastian",
+    "lat": 43.309284550243156,
+    "lng":  -1.9465784607821306,
+    "link": "/eroski-garbera",
+    "country": "Spain"
+  },
+  {
+    "shop": "EROSKI",
+    "name": "EROSKI Cala D'or",
+    "address": "Avinguda Bienvenidos, s/n, 07660 Cala d'Or, Balearic Islands",
+    "city": "Cala d´Or",
+    "lat": 39.378633143920695,
+    "lng":  3.2255214544037156,
+    "link": "/eroski-cala-dor",
+    "country": "Spain"
+  },
+  {
+    "shop": "EROSKI",
+    "name": "EROSKI Port Pollenca",
+    "address": "Carrer de Joan XXIII, s/n, 07470 Port de Pollença, Illes Balears",
+    "city": "Port Pollença",
+    "lat": 39.90515653187222,
+    "lng":  3.076348898597907,
+    "link": "/eroski-port-pollenca",
+    "country": "Spain"
+  },
+  {
+    "shop": "EROSKI",
+    "name": "EROSKI Urbil",
+    "address": "C.C. Urbil, Txikierdi kalea, 7, 20170 Usurbil, Gipuzkoa",
+    "city": "Usurbil",
+    "lat": 43.276300834092936,
+    "lng":  -2.023927107473602,
+    "link": "/eroski-urbil",
+    "country": "Spain"
+  },
+  {
+    "shop": "EROSKI",
+    "name": "EROSKI Zarautz",
+    "address": "Araba Kalea, 41, 20800 Zarautz, Gipuzkoa",
+    "city": "Zarautz",
+    "lat": 43.282076833879216,
+    "lng":  -2.165019274278602,
+    "link": "/eroski-zarautz",
+    "country": "Spain"
+  },
+  {
+    "shop": "EROSKI",
+    "name": "EROSKI Iruña",
+    "address": "Ctra San Sebastian, km 1, 31013 Pamplona, Navarra",
+    "city": "Pamplona",
+    "lat": 42.83367273166103,
+    "lng":  -1.6798970718663748,
+    "link": "/eroski-iruna",
+    "country": "Spain"
+  },
+  {
+    "shop": "EROSKI",
+    "name": "EROSKI Abadiño",
+    "address": "Murueta Kalea, 48220 Abadiño-Zelaieta, Bizkaia",
+    "city": "Traña-Matiena",
+    "lat": 43.17105649705636,
+    "lng":  -2.617039172438972,
+    "link": "/eroski-abadino",
+    "country": "Spain"
+  },
+  {
+    "shop": "EROSKI",
+    "name": "EROSKI Boulevard",
+    "address": "Zaramaga Kalea, 1, 01013 Vitoria-Gasteiz, Araba",
+    "city": "Alava - Vitoria",
+    "lat": 42.86163100794445,
+    "lng":  -2.6675685227446593,
+    "link": "/eroski-boulevard",
+    "country": "Spain"
+  },
+  {
+    "shop": "EROSKI",
+    "name": "EROSKI San Luis",
+    "address": "manzana 1 Poligono, Av. Talaiot, s/n, 07710 Menorca, Illes Balears",
+    "city": "San Luis",
+    "lat": 39.858812178746106,
+    "lng":  4.259640196751999,
+    "link": "/eroski-san-luis",
+    "country": "Spain"
+  },
+  {
+    "shop": "EROSKI",
+    "name": "EROSKI Son Moix",
+    "address": "Cami del Reis Esquina, Ctra Puigpunyent, s/n, 07009 Palma, Illes Balears",
+    "city": "Palma de Mallorca",
+    "lat": 39.59258824758508,
+    "lng":  2.6339342948978297,
+    "link": "/eroski-son-moix",
+    "country": "Spain"
+  },
+  {
+    "shop": "EROSKI",
+    "name": "EROSKI Campos II",
+    "address": "Carrer de Santanyí, 07630 Campos, Illes Balears",
+    "city": "Campos",
+    "lat": 39.43772011348314,
+    "lng":  3.003427467901287,
+    "link": "/eroski-campos-ii",
+    "country": "Spain"
+  },
+  {
+    "shop": "EROSKI",
+    "name": "EROSKI Felanitx",
+    "address": "Carrer de Bellpuig, s/n, 07200 Felanitx, Illes Balears",
+    "city": "Felanitx",
+    "lat": 39.47359309873093,
+    "lng":  3.1564324544072924,
+    "link": "/eroski-felanitx",
+    "country": "Spain"
+  },
+  {
+    "shop": "EROSKI",
+    "name": "EROSKI Castro Urdiales",
+    "address": "Bº Brazomar, s/n, 39700 Castro-Urdiales, Cantabria",
+    "city": "Castro Urdiales",
+    "lat": 43.367898569981946,
+    "lng":  -3.2185695454402334,
+    "link": "/eroski-castro-urdiales",
+    "country": "Spain"
+  },
+  {
+    "shop": "EROSKI",
+    "name": "EROSKI Arcco Amara",
+    "address": "Pl. de Irún, s/n, 20011 Donostia-San Sebastian, Gipuzkoa",
+    "city": "San Sebastian",
+    "lat": 43.305387190602204,
+    "lng":  -1.9735285454427993,
+    "link": "/eroski-arcco-amara",
+    "country": "Spain"
   }
 ]
