@@ -1,0 +1,272 @@
+[
+  {
+    "shop": "Caprabo",
+    "name": "Caprabo illa Carlemany",
+    "address": "Avinguda Carlemany 70, Centre Comercial illa Carlemany, AD700 Escaldes-Engordany, Andorra",
+    "city": "Escaldes-Engordany",
+    "lat": 42.5087,
+    "lng": 1.5374,
+    "link": "/caprabo-av-carlemany",
+    "country": "Andorra"
+  },
+  {
+    "shop": "Super U",
+    "name": "Super U Av. Meritxell",
+    "address": "Av. Meritxell, 92-94, AD500 Andorra la Vella, Andorra",
+    "city": "Andorra la Vella",
+    "lat": 42.5079,
+    "lng": 1.5262,
+    "link": "/super-u-av-meritxell",
+    "country": "Andorra"
+  },
+  {
+    "shop": "Caprabo",
+    "name": "Caprabo Carrer Prat de la Creu",
+    "address": "Carrer Prat de la Creu, 46, AD500 Andorra la Vella, Andorra",
+    "city": "Andorra la Vella",
+    "lat": 42.506707381513884,
+    "lng": 1.5231974967325852,
+    "link": "/caprabo-carrer-prat-de-la-creu",
+    "country": "Andorra"
+  },
+  {
+    "shop": "Caprabo",
+    "name": "Caprabo Av. Joan Martí",
+    "address": "Av. de Joan Martí, 66 PB Local, Andorra",
+    "city": "Encamp",
+    "lat": 42.53283989807453,
+    "lng": 1.5774116378103036,
+    "link": "/caprabo-av-joan-marti",
+    "country": "Andorra"
+  },
+  {
+    "shop": "Caprabo",
+    "name": "Caprabo Costes de Giberga",
+    "address": "Costes de Giberga, AD400 La Massana, Andorra",
+    "city": "La Massana",
+    "lat": 42.5449,
+    "lng": 1.5148,
+    "link": "/caprabo-costes-de-giberga",
+    "country": "Andorra"
+  },
+  {
+    "shop": "",
+    "name": "Badajoz – Ctra. Valverde",
+    "address": "Ctra. Valverde, km. 1, 06010 Badajoz, Spain",
+    "city": "Badajoz",
+    "lat": 38.861472,
+    "lng": -6.971472,
+    "link": "",
+    "country": "Spain"
+  },
+  {
+    "shop": "",
+    "name": "Badajoz – Av. Jose María Alcaraz y Alenda",
+    "address": "Av. Jose María Alcaraz y Alenda, 06011 Badajoz, Spain",
+    "city": "Badajoz",
+    "lat": 38.867302,
+    "lng": -6.9893467,
+    "link": "",
+    "country": "Spain"
+  },
+  {
+    "shop": "",
+    "name": "A Coruña – Rúa Francisco Pérez Carballo",
+    "address": "Rúa Francisco Pérez Carballo, 5, 15008 A Coruña, Spain",
+    "city": "A Coruña",
+    "lat": 43.3384734,
+    "lng": -8.4082519,
+    "link": "",
+    "country": "Spain"
+  },
+  {
+    "shop": "",
+    "name": "Salamanca – C. Toro",
+    "address": "C. Toro, 82, 37002 Salamanca, Spain",
+    "city": "Salamanca",
+    "lat": 40.96435,
+    "lng": -5.66365,
+    "link": "",
+    "country": "Spain"
+  },
+  {
+    "shop": "",
+    "name": "Vigo – Rúa do Miradoiro",
+    "address": "Rúa do Miradoiro, 2, Freixeiro, 36210 Vigo, Pontevedra, Spain",
+    "city": "Vigo",
+    "lat": 42.220971,
+    "lng": -8.7241312,
+    "link": "",
+    "country": "Spain"
+  },
+  {
+    "shop": "",
+    "name": "Cáceres – Av. de las Arenas",
+    "address": "Av. de las Arenas, 51, 10001 Cáceres, Spain",
+    "city": "Cáceres",
+    "lat": 39.46809,
+    "lng": -6.39661,
+    "link": "",
+    "country": "Spain"
+  },
+  {
+    "shop": "",
+    "name": "Plaza Europa – Barri de la Llum",
+    "address": "Plaza Europa, 1, 46950 Xirivella, Valencia, Spain",
+    "city": "Xirivella",
+    "lat": 39.4652,
+    "lng": -0.425,
+    "link": "",
+    "country": "Spain"
+  },
+  {
+    "shop": "",
+    "name": "València – Av. de Manuel de Falla",
+    "address": "Av. de Manuel de Falla, 13, Campanar, 46015 València, Valencia, Spain",
+    "city": "València",
+    "lat": 39.476649,
+    "lng": -0.405524,
+    "link": "",
+    "country": "Spain"
+  },
+  {
+    "shop": "",
+    "name": "L'Eliana – Centro Comercial El Osito",
+    "address": "Centro Comercial El Osito, C/ Tuéjar, 39, 46183 L'Eliana, Valencia, Spain",
+    "city": "L'Eliana",
+    "lat": 39.57893,
+    "lng": -0.53151,
+    "link": "",
+    "country": "Spain"
+  },
+  {
+    "shop": "",
+    "name": "Ondara – Av. Costa Blanca",
+    "address": "Av. Costa Blanca, 1, 03760 Ondara, Alicante, Spain",
+    "city": "Ondara",
+    "lat": 38.817852,
+    "lng": 0.022377,
+    "link": "",
+    "country": "Spain"
+  },
+  {
+    "shop": "",
+    "name": "Sagunt – Avinguda de l'Advocat Fausto Caruana",
+    "address": "Avinguda de l'Advocat Fausto Caruana, s/n, 46500 Sagunt, Valencia, Spain",
+    "city": "Sagunt",
+    "lat": 39.6717085,
+    "lng": -0.2512314,
+    "link": "",
+    "country": "Spain"
+  },
+  {
+    "shop": "",
+    "name": "Madrid – Pl. del Canal de Isabel II",
+    "address": "Pl. del Canal de Isabel II, 1-3, Tetuán, 28039 Madrid, Spain",
+    "city": "Madrid",
+    "lat": 40.4683,
+    "lng": -3.6986,
+    "link": "",
+    "country": "Spain"
+  },
+  {
+    "shop": "",
+    "name": "Alzira – Avinguda de la Dignitat Humana",
+    "address": "Avinguda de la Dignitat Humana, 2, 46600 Alzira, Valencia, Spain",
+    "city": "Alzira",
+    "lat": 39.1643069,
+    "lng": -0.4298996,
+    "link": "",
+    "country": "Spain"
+  },
+  {
+    "shop": "",
+    "name": "Getafe – El Bulevar",
+    "address": "El Bulevar, Ctra. de Villaverde, s/n, Centro Comercial, 28905 Getafe, Madrid, Spain",
+    "city": "Getafe",
+    "lat": 40.3019,
+    "lng": -3.7355,
+    "link": "",
+    "country": "Spain"
+  },
+  {
+    "shop": "",
+    "name": "Murcia – C. de Molina de Segura",
+    "address": "C. de Molina de Segura, 30007 Puente Tocinos, Murcia, Spain",
+    "city": "Murcia",
+    "lat": 37.991672,
+    "lng": -1.113048,
+    "link": "",
+    "country": "Spain"
+  },
+  {
+    "shop": "",
+    "name": "Valladolid – C. de la Costa Brava",
+    "address": "C. de la Costa Brava, 2, 47010 Valladolid, Spain",
+    "city": "Valladolid",
+    "lat": 41.67009,
+    "lng": -4.70944,
+    "link": "",
+    "country": "Spain"
+  },
+  {
+    "shop": "",
+    "name": "Gandia – Avinguda de Blasco Ibáñez",
+    "address": "Avinguda de Blasco Ibáñez, 1, 46701 Gandia, Valencia, Spain",
+    "city": "Gandia",
+    "lat": 38.97078,
+    "lng": -0.169379,
+    "link": "",
+    "country": "Spain"
+  },
+  {
+    "shop": "",
+    "name": "Oviedo – Centro Comercial Los Prados",
+    "address": "Centro Comercial Los Prados, C. Rosa María Menéndez López, s/n, 33011 Oviedo, Asturias, Spain",
+    "city": "Oviedo",
+    "lat": 43.3704242,
+    "lng": -5.8308438,
+    "link": "",
+    "country": "Spain"
+  },
+  {
+    "shop": "",
+    "name": "Reus – Av. de Marià Fortuny",
+    "address": "Av. de Marià Fortuny, 81, 43204 Reus, Tarragona, Spain",
+    "city": "Reus",
+    "lat": 41.161934,
+    "lng": 1.114441,
+    "link": "",
+    "country": "Spain"
+  },
+  {
+    "shop": "",
+    "name": "Lugo – N-6",
+    "address": "N-6, Km 501, 6, 27004 Lugo, Spain",
+    "city": "Lugo",
+    "lat": 43.013,
+    "lng": -7.5702,
+    "link": "",
+    "country": "Spain"
+  },
+  {
+    "shop": "",
+    "name": "Algeciras – N-340",
+    "address": "N-340, Km 106, 25, 11204 Algeciras, Cádiz, Spain",
+    "city": "Algeciras",
+    "lat": 36.147611,
+    "lng": -5.454833,
+    "link": "",
+    "country": "Spain"
+  },
+  {
+    "shop": "",
+    "name": "Cocentaina – Avenida l'Altet",
+    "address": "Avda. de l'Altet, 2, 03820 Cocentaina, Alicante, Spain",
+    "city": "Cocentaina",
+    "lat": 38.730639,
+    "lng": -0.443278,
+    "link": "",
+    "country": "Spain"
+  }
+]
