@@ -578,5 +578,223 @@
     "lng":  -1.9735285454427993,
     "link": "/eroski-arcco-amara",
     "country": "Spain"
-  }
+  },
+  {
+    "shop": "MENY",
+    "name": "MENY Oslo City",
+    "address": "xxx",
+    "city": "Oslo",
+    "lat": xxx,
+    "lng":  xxx,
+    "link": "/meny-xxx",
+    "country": "Noruega"
+  },
+  {
+    "shop": "MENY",
+    "name": "MENY Røa",
+    "address": "xxx",
+    "city": "San Sebastian",
+    "lat": xxx,
+    "lng":  xxx,
+    "link": "/meny-roa",
+    "country": "Noruega"
+  },
+  {
+    "shop": "MENY",
+    "name": "MENY Tolvsrød",
+    "address": "xxx",
+    "city": "San Sebastian",
+    "lat": xxx,
+    "lng":  xxx,
+    "link": "/meny-tolvsrod",
+    "country": "Noruega"
+  },
+  {
+    "shop": "MENY",
+    "name": "MENY Vest",
+    "address": "xxx",
+    "city": "San Sebastian",
+    "lat": xxx,
+    "lng":  xxx,
+    "link": "/meny-vest",
+    "country": "Noruega"
+  },
+  {
+    "shop": "MENY",
+    "name": "MENY Sandvika Storsenter",
+    "address": "xxx",
+    "city": "San Sebastian",
+    "lat": xxx,
+    "lng":  xxx,
+    "link": "/meny-sandvika-storsenter",
+    "country": "Noruega"
+  },
+  {
+    "shop": "MENY",
+    "name": "MENY Solsiden",
+    "address": "xxx",
+    "city": "San Sebastian",
+    "lat": xxx,
+    "lng":  xxx,
+    "link": "/meny-solsiden",
+    "country": "Noruega"
+  },
+  {
+    "shop": "MENY",
+    "name": "MENY Skjetten",
+    "address": "xxx",
+    "city": "San Sebastian",
+    "lat": xxx,
+    "lng":  xxx,
+    "link": "/meny-skjetten",
+    "country": "Noruega"
+  },
+  {
+    "shop": "MENY",
+    "name": "MENY Åsane storsenter",
+    "address": "xxx",
+    "city": "San Sebastian",
+    "lat": xxx,
+    "lng":  xxx,
+    "link": "/meny-asane-storsenter",
+    "country": "Noruega"
+  },
+  {
+    "shop": "MENY",
+    "name": "MENY xxx",
+    "address": "xxx",
+    "city": "San Sebastian",
+    "lat": xxx,
+    "lng":  xxx,
+    "link": "/meny-xxx",
+    "country": "Noruega"
+  },
+  {
+    "shop": "MENY",
+    "name": "MENY Bjølsen",
+    "address": "xxx",
+    "city": "San Sebastian",
+    "lat": xxx,
+    "lng":  xxx,
+    "link": "/meny-bjolsen",
+    "country": "Noruega"
+  },
+  {
+    "shop": "MENY",
+    "name": "MENY xxx",
+    "address": "xxx",
+    "city": "San Sebastian",
+    "lat": xxx,
+    "lng":  xxx,
+    "link": "/meny-xxx",
+    "country": "Noruega"
+  },
+  {
+    "shop": "MENY",
+    "name": "MENY Bryn",
+    "address": "xxx",
+    "city": "San Sebastian",
+    "lat": xxx,
+    "lng":  xxx,
+    "link": "/meny-bryn",
+    "country": "Noruega"
+  },
+  {
+    "shop": "MENY",
+    "name": "MENY Revetal",
+    "address": "xxx",
+    "city": "San Sebastian",
+    "lat": xxx,
+    "lng":  xxx,
+    "link": "/meny-revetal",
+    "country": "Noruega"
+  },
+  {
+    "shop": "MENY",
+    "name": "MENY Høvik",
+    "address": "xxx",
+    "city": "San Sebastian",
+    "lat": xxx,
+    "lng":  xxx,
+    "link": "/meny-hovik",
+    "country": "Noruega"
+  },
+  {
+    "shop": "MENY",
+    "name": "MENY Ski Storsenter",
+    "address": "xxx",
+    "city": "San Sebastian",
+    "lat": xxx,
+    "lng":  xxx,
+    "link": "/meny-ski-storsenter",
+    "country": "Noruega"
+  },
+  {
+    "shop": "MENY",
+    "name": "MENY Moholt",
+    "address": "xxx",
+    "city": "San Sebastian",
+    "lat": xxx,
+    "lng":  xxx,
+    "link": "/meny-moholt",
+    "country": "Noruega"
+  },
+  {
+    "shop": "MENY",
+    "name": "MENY Lestad",
+    "address": "xxx",
+    "city": "San Sebastian",
+    "lat": xxx,
+    "lng":  xxx,
+    "link": "/meny-lestad",
+    "country": "Noruega",
+  {
+    "shop": "MENY",
+    "name": "MENY Bjørvika",
+    "address": "xxx",
+    "city": "San Sebastian",
+    "lat": xxx,
+    "lng":  xxx,
+    "link": "/meny-bjorvika",
+    "country": "Noruega"
+  },
+  {
+    "shop": "MENY",
+    "name": "MENY Frogner",
+    "address": "xxx",
+    "city": "San Sebastian",
+    "lat": xxx,
+    "lng":  xxx,
+    "link": "/meny-frogner",
+    "country": "Noruega"
+  },
+  {
+    "shop": "MENY",
+    "name": "MENY Sarpsborg",
+    "address": "xxx",
+    "city": "San Sebastian",
+    "lat": xxx,
+    "lng":  xxx,
+    "link": "/meny-sarpsborg",
+    "country": "Noruega"
+  },
+  {
+    "shop": "MENY",
+    "name": "MENY Ringnes park",
+    "address": "xxx",
+    "city": "San Sebastian",
+    "lat": xxx,
+    "lng":  xxx,
+    "link": "/meny-ringnes-park",
+    "country": "Noruega",
+    {
+    "shop": "MENY",
+    "name": "MENY xxx",
+    "address": "xxx",
+    "city": "San Sebastian",
+    "lat": xxx,
+    "lng":  xxx,
+    "link": "/meny-xxx",
+    "country": "Noruega"
+  },
 ]
