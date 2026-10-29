@@ -587,7 +587,7 @@
     "lat": 59.91262599632373,
     "lng":   10.75248826883888,
     "link": "/meny-oslo city",
-    "country": "Noruego"
+    "country": "Norway"
   },
   {
     "shop": "MENY",
@@ -597,7 +597,7 @@
     "lat": 59.94813980473364, 
     "lng":  10.643897151415109,
     "link": "/meny-roa",
-    "country": "Noruega"
+    "country": "Norway"
   },
   {
     "shop": "MENY",
@@ -607,7 +607,7 @@
     "lat": 59.272928547038944, 
     "lng":  10.46382249948404,
     "link": "/meny-tolvsrod",
-    "country": "Noruega"
+    "country": "Norway"
   },
   {
     "shop": "MENY",
@@ -617,7 +617,7 @@
     "lat": 59.917618397109685, 
     "lng":  10.635572926508926,
     "link": "/meny-vest",
-    "country": "Noruega"
+    "country": "Norway"
   },
   {
     "shop": "MENY",
@@ -627,7 +627,7 @@
     "lat": 59.890114757062676,
     "lng":  10.51939603535452,
     "link": "/meny-sandvika-storsenter",
-    "country": "Noruega"
+    "country": "Norway"
   },
   {
     "shop": "MENY",
@@ -637,7 +637,7 @@
     "lat": 63.4351658527425,
     "lng":   10.411653321623652,
     "link": "/meny-solsiden",
-    "country": "Noruega"
+    "country": "Norway"
   },
   {
     "shop": "MENY",
@@ -647,7 +647,7 @@
     "lat": 60.46469211157093,
     "lng":  5.3221684811858685,
     "link": "/meny-asane-storsenter",
-    "country": "Noruega"
+    "country": "Norway"
   },
   {
     "shop": "MENY",
@@ -657,7 +657,7 @@
     "lat": 59.94334446933815,
     "lng":  10.762201011170836,
     "link": "/meny-bjolsen",
-    "country": "Noruega"
+    "country": "Norway"
   },
   {
     "shop": "MENY",
@@ -667,7 +667,7 @@
     "lat": 59.90351661682779,
     "lng":  10.821364897673279,
     "link": "/meny-bryn",
-    "country": "Noruega"
+    "country": "Norway"
   },
   {
     "shop": "MENY",
@@ -677,7 +677,7 @@
     "lat": 59.37148903471525,
     "lng":  10.264431349631826,
     "link": "/meny-revetal",
-    "country": "Noruega"
+    "country": "Norway"
   },
   {
     "shop": "MENY",
@@ -687,7 +687,7 @@
     "lat": 59.89936607260509,
     "lng":  10.579430523858544,
     "link": "/meny-hovik",
-    "country": "Noruega"
+    "country": "Norway"
   },
   {
     "shop": "MENY",
@@ -697,7 +697,7 @@
     "lat": 59.717315054419515,
     "lng":  10.836097839993668,
     "link": "/meny-ski-storsenter",
-    "country": "Noruega"
+    "country": "Norway"
   },
   {
     "shop": "MENY",
@@ -707,7 +707,7 @@
     "lat": 59.90542301414788,
     "lng":  10.759557440003647,
     "link": "/meny-bjorvika",
-    "country": "Noruega"
+    "country": "Norway"
   },
   {
     "shop": "MENY",
@@ -717,7 +717,7 @@
     "lat": 59.91616222098212,
     "lng":  10.71511394184837,
     "link": "/meny-frogner",
-    "country": "Noruega"
+    "country": "Norway"
   },
   {
     "shop": "MENY",
@@ -727,7 +727,7 @@
     "lat": 59.28371714425318,
     "lng":  11.10777235473422,
     "link": "/meny-sarpsborg",
-    "country": "Noruega"
+    "country": "Norway"
   },
   {
     "shop": "MENY",
@@ -737,7 +737,7 @@
     "lat": 59.928594070945586,
     "lng":  10.760399055344376,
     "link": "/meny-ringnes-park",
-    "country": "Noruega"
+    "country": "Norway"
     },
     {
     "shop": "MENY",
@@ -747,7 +747,7 @@
     "lat": 59.12784519542701,
     "lng":  10.24153148413688,
     "link": "/meny-indre-havn",
-    "country": "Noruega"
+    "country": "Norway"
   },
     {
     "shop": "MENY",
@@ -757,7 +757,7 @@
     "lat": 59.91435019660406,
     "lng":  10.841436155343649,
     "link": "/meny-tveita",
-    "country": "Noruega"
+    "country": "Norway"
   },  {
     "shop": "MENY",
     "name": "MENY Colosseum",
@@ -766,7 +766,7 @@
     "lat": 59.93078297491327,
     "lng":  10.710414226509648,
     "link": "/meny-colosseum",
-    "country": "Noruega"
+    "country": "Norway"
   },  {
     "shop": "MENY",
     "name": "MENY Saga",
@@ -775,7 +775,7 @@
     "lat": 59.18582777864454,
     "lng":   9.61384588229577,
     "link": "/meny-saga",
-    "country": "Noruega"
+    "country": "Norway"
   },  {
     "shop": "MENY",
     "name": "MENY Oasen",
@@ -784,6 +784,6 @@
     "lat": 60.34881618711408,
     "lng":  5.2897507623355375,
     "link": "/meny-oasen",
-    "country": "Noruega"
+    "country": "Norway"
   }
 ]
