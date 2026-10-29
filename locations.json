@@ -796,9 +796,9 @@
     "country": "Latvia"
   },  {
     "shop": "Stockmann",
-    "name": "Stockmann Tallin",
+    "name": "Stockmann Tallinn",
     "address": "Liivalaia tn 53, 10145 Tallinn, Estonia",
-    "city": "Tallin",
+    "city": "Tallinn",
     "lat": 59.432660243141065,
     "lng":  24.76220432648316,
     "link": "/stockmann-tallin",
