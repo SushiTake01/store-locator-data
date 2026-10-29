@@ -794,5 +794,14 @@
     "lng":  24.116559926353595,
     "link": "/stockmann-riga",
     "country": "Latvia"
+  },  {
+    "shop": "Stockmann",
+    "name": "Stockmann Tallin",
+    "address": "Liivalaia tn 53, 10145 Tallinn, Estonia",
+    "city": "Tallin",
+    "lat": 59.432660243141065,
+    "lng":  24.76220432648316,
+    "link": "/stockmann-tallin",
+    "country": "Estonia"
   }
 ]
