@@ -785,5 +785,14 @@
     "lng":  5.2897507623355375,
     "link": "/meny-oasen",
     "country": "Norway"
+  },  {
+    "shop": "Stockmann",
+    "name": "Stockmann Riga",
+    "address": "13. janvāra iela 8, Latgales priekšpilsēta Stockmann iekšpusē, Latgales priekšpilsēta, Rīga, LV-1050",
+    "city": "Riga",
+    "lat": 56.9462406735517,
+    "lng":  24.116559926353595,
+    "link": "/stockmann-riga",
+    "country": "Latvia"
   }
 ]
