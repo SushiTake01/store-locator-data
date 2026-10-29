@@ -763,7 +763,7 @@
     "name": "MENY Colosseum",
     "address": "Sørkedalsveien 10 B, 0369 Oslo, Norway",
     "city": "Oslo",
-    "lat": 59.59.93078297491327,
+    "lat": 59.93078297491327,
     "lng":  10.710414226509648,
     "link": "/meny-colosseum",
     "country": "Noruega"
@@ -785,5 +785,5 @@
     "lng":  5.2897507623355375,
     "link": "/meny-oasen",
     "country": "Noruega"
-  },
+  }
 ]
