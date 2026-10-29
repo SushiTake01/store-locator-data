@@ -803,5 +803,41 @@
     "lng":  24.76220432648316,
     "link": "/stockmann-tallin",
     "country": "Estonia"
+  },  {
+    "shop": "Intermarché",
+    "name": "Intermarché Marinha Grande",
+    "address": "Av. José Gregório, 2430-275 Marinha Grande, Portugal",
+    "city": "Marinha Grande",
+    "lat": 39.75650872356011,
+    "lng":  -8.932946460921583,
+    "link": "/intermarche-marinha-grande",
+    "country": "Portugal"
+  },  {
+    "shop": "Intermarché",
+    "name": "Intermarché Amares",
+    "address": "Quinta do Paço, Bornaria, 4720-333 Ferreiros, Portugal",
+    "city": "Amares",
+    "lat": 41.62623273506715,
+    "lng":  -8.36006419013714,
+    "link": "/intermarche-amares",
+    "country": "Portugal"
+  },  {
+    "shop": "Intermarché",
+    "name": "Intermarché Guarda",
+    "address": "Bairro Senhora, Estrada do Barracão, R. Nossa Sra. dos Remédios, 6300-309 Guarda, Portugal",
+    "city": "Guarda",
+    "lat": 40.52870881664836,
+    "lng":   -7.251905003222444,
+    "link": "/intermarche-guarda",
+    "country": "Portugal"
+  },  {
+    "shop": "Intermarché",
+    "name": "Intermarché Taveiro",
+    "address": "Mondego Retail Park, Rua da Ribeira das Eiras, 3045-504 Taveiro, Portugal",
+    "city": "Coimbra",
+    "lat": 40.19236558035361,
+    "lng":   -8.509372189739993
+    "link": "/intermarche-taveiro",
+    "country": "Portugal"
   }
 ]
